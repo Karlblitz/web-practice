@@ -1,0 +1,187 @@
+/* Reset & Global Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&family=Playfair+Display:wght@700&display=swap');
+
+body {
+    font-family: 'Poppins', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.8;
+    color: #333;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    min-height: 100vh;
+    padding: 40px 20px;
+    font-weight: 400;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+/* Header Styles */
+h1 {
+    font-family: 'Playfair Display', Georgia, serif;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    color: #ffd700;
+    cursor: pointer;
+    font-size: 48px;
+    font-weight: 700;
+    margin-bottom: 20px;
+    text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.3);
+    transition: all 0.3s ease;
+    padding: 20px;
+    border-left: 5px solid rgb(21, 175, 226);
+    animation: slideIn 0.6s ease;
+    line-height: 1.2;
+}
+
+h2 {
+    font-family: 'Playfair Display', Georgia, serif;
+    font-size: 36px;
+    font-weight: 700;
+    color: #ffeb99;
+    margin: 30px 0 15px 0;
+    letter-spacing: 1px;
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+
+h2:hover {
+    transform: translateX(10px);
+    box-shadow: 0 8px 20px rgba(255, 235, 153, 0.3);
+    background: rgba(255, 235, 153, 0.1);
+    border-radius: 4px;
+}
+
+h3 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+    color: #fff;
+    margin: 20px 0 10px 0;
+}
+
+h4, h5, h6 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    color: #e0e0ff;
+    margin: 15px 0 8px 0;
+}
+
+@keyframes slideIn {
+    from {
+        opacity: 0;
+        transform: translateX(-20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+h1:hover {
+    transform: translateX(10px);
+    box-shadow: 0 8px 20px rgba(21, 175, 226, 0.4);
+    background: rgba(21, 175, 226, 0.1);
+    border-radius: 4px;
+}
+
+/* Paragraph Styles */
+p {
+    font-size: 18px;
+    font-weight: 400;
+    margin: 20px 0;
+    color: #e8e8ff;
+    padding: 15px;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 6px;
+    transition: all 0.3s ease;
+    letter-spacing: 0.5px;
+    line-height: 1.8;
+}
+
+p:hover {
+    background: rgba(255, 255, 255, 0.15);
+    transform: translateY(-2px);
+}
+
+strong {
+    color: #ffd700;
+    font-weight: 700;
+    letter-spacing: 0.3px;
+}
+
+em {
+    font-style: italic;
+    color: #ffeb99;
+    opacity: 0.95;
+}
+
+/* Text Variations */
+.text-small {
+    font-size: 14px;
+    font-weight: 300;
+    letter-spacing: 0.8px;
+}
+
+.text-large {
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 1.5;
+}
+
+.text-highlight {
+    color: #ffd700;
+    font-weight: 600;
+}
+
+.text-uppercase {
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight: 600;
+}
+
+/* Link Styles */
+#my-github-account a {
+    color: #fff;
+    text-decoration: none;
+}
+
+/* Container */
+body > * {
+    max-width: 800px;
+    margin: 0 auto;
+}
+#github-me {
+    color: black;
+    text-decoration: none;
+    margin-left: 10px;
+
+}
+#call-me {
+    color: black;
+    text-decoration: none;
+
+}
+#email-me {
+    color: black;
+    text-decoration: none;
+
+}
+/*style for h2*/
+h2 {
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+h2 {
+    font-family: 'Playfair Display', Georgia, serif;            
+    font-size: 36px;
+    font-weight: 700;
+}
+#facebook-me , #what-I-can-do a, #call-me a, #email-me a {
+    color: black;
+    text-decoration: none;
+
+}
