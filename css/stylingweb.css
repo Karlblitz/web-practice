@@ -1,8 +1,10 @@
+/* Styling all P Tags */
 p {
     font-size: 16px;
     color: darkblue;
     line-height: 1.6;
 }
+/* Styling the header */
 #header {
     position: fixed;
     top: 0;
