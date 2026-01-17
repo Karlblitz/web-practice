@@ -1,0 +1,33 @@
+/* TARGETING ELEMENT STYLE IN CSS/ TAGS */
+#css5 {
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 36px;
+    background-color: lightgrey;
+}
+.list-item {
+    color: blue;
+    font-size: 15px;
+    text-transform: uppercase;
+    display: block
+}
+span {
+    color: darkblue;
+    font-size: 16px;
+    text-transform: uppercase;
+}
+#footer {
+    color: white;
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+    font-size: 14px;
+}
+a {
+    color: blue;
+    text-decoration: none;
+    text-decoration: underline;
+    font-size: 20px;
+    text-transform: uppercase;
+}
