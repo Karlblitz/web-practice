@@ -4,6 +4,7 @@ h1 {
     font-family: 'Times New Roman', Times, serifs-serif;
     text-align: center;
     font-size: 36px;
+    background-color: lightgrey;
 }
 a {
     color: blue;
@@ -32,5 +33,4 @@ span {
 }
 div {
     color: blue;
-    background-color: lightgrey;
 }
