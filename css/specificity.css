@@ -1,0 +1,15 @@
+#container p {
+    color: blue;
+}
+
+p {
+    color: red;
+}
+
+strong {
+    color: green;
+}
+
+.testing p {
+    color: purple;
+}
