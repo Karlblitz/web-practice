@@ -1,0 +1,9 @@
+Daily Study Report
+Date: 4/9/2026
+Topics Studied: CSS
+
+What I Learned: I have learned that there is a formula that relates to math in doing the list part to put in the CSS. Also so far I have learned basics in what to put in the CSS to HTML.I was amazed when I learned there's a parent and child selectors in the code.  The most important lessoned I have lesson here is that I shouldn't have take it so lightly. I'm really sorry big brother for not doing it right away and for doing some excuses. I know it it ain't easy to forgive me, but I will make it up to you. And someday I'll pay you back for helping everyday. 
+
+Difficult Parts: Doing the borders inside the certain elements, because for some reason it ain't working on the css file but on the html. But the most difficult part for me is that I didn't do it right away and it made regret, because I'm already about to go in college where it requires coding skills and understanding critically. But I won't give up, but still keep doing it till I mastered it. Not only this language, but Also other languages.
+Time Spent: 4 Months :(
+Plan for Tomorrow: Do the JavaScript 
