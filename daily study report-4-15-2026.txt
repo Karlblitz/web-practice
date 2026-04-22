@@ -1,0 +1,13 @@
+Daily Study Report
+Date:4/15/2026
+Topics Studied: JavaScript Basics
+
+What I Learned:
+Today I learned the basic parts of JavaScript. I understood how JavaScript code is written and how to use console.log() to show output. I also learned about variables, which are used to store data. There are different ways to declare variables like let, const, and var. I learned that let can change, const stays the same, and `var` is the older way. I also studied the different data types such as numbers, strings, and boolean values. I learned how to check the type of data using typeof. This lesson helped me understand the foundation of JavaScript, which is important for learning more advanced topics.
+
+Difficult Parts:
+The difficult part for me was remembering the differences between `let`, `const`, and `var`. Sometimes I get confused about when to use each one. I also need more practice in understanding how data types work in different situations.
+
+Time Spent: 8 hours with 10 min. breaks 
+Plan for Tomorrow:
+I will continue learning JavaScript and study the next lesson. I will also try to practice writing simple codes to improve my understanding.

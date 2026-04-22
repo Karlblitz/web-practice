@@ -1,0 +1,23 @@
+Daily Study Report
+
+Date: 4/20/2026
+Topics Studied: JavaScript Control Flow
+
+What I Learned:
+
+Today I learned about control flow in JavaScript, which is how a program decides what to do. I studied how to use if, else if, and else to check conditions and make decisions. I also learned about loops like for, while, and do-while, which repeat code multiple times. I understood that a while loop checks the condition first before running, while a do-while loop runs the code first before checking. I also learned about break and continue, where break stops the loop and continue skips one step. This lesson helped me understand how programs can make decisions and repeat actions.
+
+
+Difficult Parts:
+
+The difficult part for me was understanding the difference between while and do-while loops. I sometimes get confused about when the condition is checked. I also find it a bit hard to know which loop to use in different situations. I need more practice to fully understand how loops work.
+
+
+
+Time Spent: 8 hours with 10 min. breaks
+
+Plan for Tomorrow:
+
+I will continue studying JavaScript and move to the next lesson. I will practice writing simple programs using if statements and loops so I can understand them better.
+
+
