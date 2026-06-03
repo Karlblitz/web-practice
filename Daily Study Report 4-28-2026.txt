@@ -1,0 +1,20 @@
+Date: 4/28/2026
+Topics Studied: Modern JavaScript Tutorial #5 - Objects
+
+What I Learned:
+
+Today, I moved on to objects in JavaScript. I learned that objects are like real-life items, such as a phone or a user, that have properties like name and age, and methods which are actions they can do. I learned how to create an object using object literal notation with curly braces {}. I also practiced how to access these properties using dot notation like user.name and bracket notation.
+
+Another important thing I learned was the this keyword. It is used inside a method to refer to the object itself so it can use its own data. I also explored the built-in Math object, which can be used for rounding numbers and generating random values. Lastly, I learned about stack and heap memory. Simple data types like numbers and strings create separate copies, while objects and arrays share the same data in memory.
+
+Difficult Parts:
+
+The hardest part was understanding the difference between primitive and reference types. It was surprising to learn that when you copy an object and change it, the original object also changes because they point to the same data in memory. I also had to be careful with arrow functions because they do not work well as object methods since the this keyword does not behave correctly. Because of this, it is better to use regular functions for object methods.
+
+Time Spent:
+
+About 4 hour including the video and practice.
+
+Plan for Tomorrow:
+
+Tomorrow, I will start Modern JavaScript Tutorial #6 about the Document Object Model (DOM). 

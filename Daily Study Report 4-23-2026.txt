@@ -1,0 +1,23 @@
+Daily Study Report
+
+Date: 4/23/2026
+Topics Studied: JavaScript Functions on the Tutorial# 04
+
+
+What I Learned:
+
+Today I learned about functions in JavaScript. A function is a block of code that performs a specific task and can be used again whenever needed.  I learned how to create a function using the `function` keyword and how to call or run it. I also learned about parameters and arguments, where parameters are the values written in the function, and arguments are the values given when calling the function. I understood that functions can return values using the `return` keyword. I also learned that functions can be stored in variables and reused many times. This lesson helped me understand how to organize code better and avoid repeating the same code again and again.
+
+Difficult Parts:
+
+The difficult part for me was understanding the difference between parameters and arguments. I also got a bit confused about when to use `return` and when to just use `console.log()`. I need more practice in writing my own functions and using them in different situations.
+
+
+Time Spent:
+
+4 hours with 10 min. breaks
+
+
+Plan for Tomorrow:
+
+I'll do it by Monday the other tutorials that I must study, cause malakat kami ha bagongon tomorrow till Sunday. 
